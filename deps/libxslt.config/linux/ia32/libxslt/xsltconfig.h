@@ -123,7 +123,6 @@ extern "C" {
 #define LIBXSLT_DEFAULT_PLUGINS_PATH() "/usr/local/lib/libxslt-plugins"
 #endif
 
-
 /**
  * Locale support
  */
